@@ -19,4 +19,8 @@ neve-the-motion-06.jpg,https://unsplash.com/photos/LPWl2pEVGKc,
 neve-the-motion-04.jpg,https://unsplash.com/photos/FHGVoOlwGaI,
 neve-the-motion-02.jpg,https://unsplash.com/photos/6anudmpILw4,
 neve-the-motion-01.jpg,https://unsplash.com/photos/rxpThOwuVgE,
-neve-themotion-12.png,https://unsplash.com/photos/PkS3hCZmYts
+neve-themotion-12.png,https://unsplash.com/photos/PkS3hCZmYts,
+thumb,http://mystock.themeisle.com/photo/code-in-wp/,
+thumb,http://mystock.themeisle.com/photo/empty-beach-2/,
+thumb,http://mystock.themeisle.com/photo/traffic-sign/,
+thumb,http://mystock.themeisle.com/photo/android/
