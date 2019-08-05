@@ -1,4 +1,4 @@
-- Demo site: https://demo.themeisle.com/neve-wedding
+Demo site: https://demo.themeisle.com/neve-wedding
 
 - neve-wedding-43.png,https://unsplash.com/photos/ULHxWq8reao,
 - neve-wedding-42.png,https://unsplash.com/photos/-dKfkjcKeg8,
