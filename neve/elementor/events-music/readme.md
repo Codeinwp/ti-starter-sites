@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-real-estate/
+Demo site: https://demo.themeisle.com/neve-events
 
 - neve-events-19.jpg, https://unsplash.com/photos/IT5-0oM0YH0,
 - neve-events-18.jpg, https://unsplash.com/photos/aWXVxy8BSzc,
