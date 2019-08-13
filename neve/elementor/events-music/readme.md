@@ -19,3 +19,8 @@ Demo site: https://demo.themeisle.com/neve-events
 - neve-events-03.jpg, https://unsplash.com/photos/73V801J-NB0,
 - neve-events-01.jpg, https://unsplash.com/photos/_uDj_lyPVpA,
 - neve-events-02.jpg, https://unsplash.com/photos/BASyMFL4OQY,
+- thumb,http://mystock.themeisle.com/photo/young-boy-attending-a-concert/,
+- thumb,http://mystock.themeisle.com/photo/performing-artist-with-cool-projections-behind/,
+- thumb,http://mystock.themeisle.com/photo/drummer-plays-drums-kit/,
+- thumb,http://mystock.themeisle.com/photo/concert/,
+- thumb,http://mystock.themeisle.com/photo/rock-on/
