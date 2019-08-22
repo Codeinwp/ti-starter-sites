@@ -1,4 +1,4 @@
-Online deme: https://demo.themeisle.com/neve-lawyers/
+Online demo: https://demo.themeisle.com/neve-lawyers/
 
 - neve-lawyers-demo-18.jpg,https://unsplash.com/photos/MQwdj_ZyJAk,
 - neve-lawyers-demo-17.jpg,https://unsplash.com/photos/r2ESY7RXB4M,
