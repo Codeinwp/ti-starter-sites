@@ -32,6 +32,6 @@ Online demo: https://demo.themeisle.com/neve-portrait-photopraphy/
 - neve-wedding-photography-6.jpg,https://unsplash.com/photos/vjtIl4-fFcI,
 - neve-wedding-photography-4.jpg,https://unsplash.com/photos/D6meliiyaWs,
 - neve-wedding-photography-5.jpg,https://unsplash.com/photos/1dwRuFgDr0o,
-- thumb,https://www.flickr.com/photos/themeisle/48506319986/,
-- thumb,https://www.flickr.com/photos/themeisle/48506319036/,
-- thumb,https://www.flickr.com/photos/themeisle/48506318901/,
+- thumb, http://mystock.themeisle.com/photo/wedding-flower-decorations/
+- thumb, http://mystock.themeisle.com/photo/bride-and-groom-table-decorated-with-flowers-2/
+- thumb, http://mystock.themeisle.com/photo/bride-and-groom/
