@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-vacation-rental/
 
+XML export file: https://s20206.pcdn.co/neve-vacation-rental/wp-content/uploads/sites/210/ti-demo-data/export.xml
+
 - neve-vacation-img-36.jpg,https://unsplash.com/photos/a9pFSC8dTlo,
 - neve-vacation-img-02.jpg,https://unsplash.com/photos/uAhyg0OajAg,
 - neve-vacation-img-11.jpg,https://unsplash.com/photos/P0P9JPV9PQc,

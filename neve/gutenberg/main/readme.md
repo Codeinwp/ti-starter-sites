@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-onboarding-gutenberg/
 
+XML export file: https://s20206.pcdn.co/neve-onboarding-gutenberg/wp-content/uploads/sites/179/ti-demo-data/export.xml
+
 * berries-yoghurt-smoothie1.jpg       - [Unsplash](https://unsplash.com/photos/8oIo60aLztg)
 * blueberry-smoothie1.jpg             - [Unsplash](https://unsplash.com/photos/dGxSJzhgW0o)
 * fruit-mix-smoothie1-1.jpg           - [Unsplash](https://unsplash.com/photos/_MSxYvJGgBk)

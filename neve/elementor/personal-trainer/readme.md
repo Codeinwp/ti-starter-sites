@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-personal-trainer/
 
+XML export file: https://s20206.pcdn.co/neve-personal-trainer/wp-content/uploads/sites/241/ti-demo-data/export.xml
+
 - neve-personal-trainer-21.jpg,https://unsplash.com/photos/ylw27U1nb5s,
 - neve-personal-trainer-22.jpg,https://unsplash.com/photos/Y1drF0Y3Oe0,
 - neve-personal-trainer-19.jpg,https://unsplash.com/photos/PsQgatSmoa8,

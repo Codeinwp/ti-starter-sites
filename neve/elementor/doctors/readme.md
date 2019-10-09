@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-doctors/
 
+XML export file: https://s20206.pcdn.co/neve-doctors/wp-content/uploads/sites/176/ti-demo-data/export.xml
+
 * Doctor-1a.jpg                - [Unsplash](https://unsplash.com/photos/efqnM0zWh54)
 * Doctor-2a.jpg                - [Unsplash](https://unsplash.com/photos/r46BaPcWP3Q)
 * Doctor-3a.jpg                - [Unsplash](https://unsplash.com/photos/QSoSdU13Cwc)

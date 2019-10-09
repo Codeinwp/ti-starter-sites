@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-real-estate/
 
+XML export file: https://s20206.pcdn.co/neve-real-estate/wp-content/uploads/sites/225/ti-demo-data/export.xml
+
 - neve-real-estate-36.jpg, https://www.pexels.com/photo/sun-piercing-of-brown-concrete-house-near-sea-1732414/,
 - neve-real-estate-34.jpg, https://unsplash.com/photos/WRS21vPkmyQ,
 - neve-real-estate-33.jpg, https://unsplash.com/photos/P-Ma0un-b1U,

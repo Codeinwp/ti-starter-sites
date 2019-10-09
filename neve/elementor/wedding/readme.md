@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-wedding
 
+XML export file: https://s20206.pcdn.co/neve-wedding/wp-content/uploads/sites/214/ti-demo-data/export.xml
+
 - neve-wedding-43.png,https://unsplash.com/photos/ULHxWq8reao,
 - neve-wedding-42.png,https://unsplash.com/photos/-dKfkjcKeg8,
 - neve-wedding-40.1.png,https://unsplash.com/photos/ZFXrgzHu1KU,

@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-fitness/
 
+XML export file: https://s20206.pcdn.co/neve-fitness/wp-content/uploads/sites/208/ti-demo-data/export.xml
+
 - neve-gym-demo-23.jpg,https://unsplash.com/photos/nlZTjUZX2qo,
 - neve-gym-demo-31.jpg,https://unsplash.com/photos/vjkM-0m34KU,
 - neve-gym-demo-27.jpg,https://unsplash.com/photos/BNrqnvtzXio,

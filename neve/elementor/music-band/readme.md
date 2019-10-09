@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-music-band
 
+XML export file: https://s20206.pcdn.co/neve-music-band/wp-content/uploads/sites/209/ti-demo-data/export.xml
+
 - neve-band-09-1.jpg,https://unsplash.com/photos/2bY2c2E6WHs,
 - thomas-litangen-SP9HcRASMPE-unsplash.jpg,https://unsplash.com/photos/SP9HcRASMPE,
 - neve-band-08-1.jpg,https://unsplash.com/photos/U_3_HMqFJSo,

@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-scholar/
 
+XML export file: https://s20206.pcdn.co/neve-scholar/wp-content/uploads/sites/182/ti-demo-data/export.xml
+
 - neve-life-coach-22.jpg,https://unsplash.com/photos/7YVZYZeITc8,
 - neve-life-coach-21.jpg,https://unsplash.com/photos/F5v-vRe_NPQ,
 - neve-life-coach-20.jpg,https://unsplash.com/photos/EdA845C1yXc,

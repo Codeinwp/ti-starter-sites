@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-shop/
 
+XML export file: https://s20206.pcdn.co/neve-shop/wp-content/uploads/sites/188/ti-demo-data/export.xml
+
 * nv-shop-slide1.jpg.jpg - [Unsplash](https://unsplash.com/photos/qHblAFPy2uU)
 * roland-denes-QT94VAhgzsE-unsplash.jpg - [Unsplash](https://unsplash.com/photos/QT94VAhgzsE)
 * tamara-bellis-9p8UKueTork-unsplash.jpg - [Unsplash](https://unsplash.com/photos/9p8UKueTork)

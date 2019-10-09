@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-rokophoto/
 
+XML export file: https://s20206.pcdn.co/neve-rokophoto/wp-content/uploads/sites/216/ti-demo-data/export.xml
+
 - neve-rokophoto-14.jpg, https://unsplash.com/photos/xC7Ho08RYF4,
 - neve-rokophoto-13.jpg, https://unsplash.com/photos/FXdoQOC5ZZ8,
 - neve-rokophoto-12.jpg, https://unsplash.com/photos/PMdiRXbAbhY,

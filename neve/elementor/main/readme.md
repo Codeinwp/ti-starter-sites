@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-onboarding/
 
+XML export file: https://s20206.pcdn.co/neve-onboarding/wp-content/uploads/sites/173/ti-demo-data/export.xml
+
 * nv-team4-1.jpg                    - [Unsplash](https://mystock.themeisle.com/photo/girl/)
 * nv-team3-1.jpg                    - [Unsplash](https://mystock.themeisle.com/photo/thinking-time/)
 * nv-team2-1.jpg                    - [Unsplash](https://mystock.themeisle.com/photo/winter-hat/)

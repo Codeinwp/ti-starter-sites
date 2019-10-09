@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-energy-panels/
 
+XML export file: https://s20206.pcdn.co/neve-energy-panels/wp-content/uploads/sites/167/ti-demo-data/export.xml
+
 - neve-energy-panels-22-1.jpg,https://unsplash.com/photos/tW3clBU2p-Q,
 - neve-energy-panels-01.jpg,https://unsplash.com/photos/VVEwJJRRHgk,
 - neve-energy-panels-02.jpg,https://unsplash.com/photos/dhvtr5fwbHI,

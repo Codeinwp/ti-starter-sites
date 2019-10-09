@@ -1,5 +1,6 @@
 Online demo: https://demo.themeisle.com/neve-kindergarten/
 
+XML export file: https://s20206.pcdn.co/neve-kindergarten/wp-content/uploads/sites/291/ti-demo-data/export.xml
 
 - neve-kindergarden-demo-28.jpg,https://unsplash.com/photos/Qito7fJMOEo,
 - neve-kindergarden-demo-27.jpg,https://unsplash.com/photos/5zu86kyV_UY,

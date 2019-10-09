@@ -1,26 +1,28 @@
 Online demo: https://demo.themeisle.com/neve-ebook/
 
-- neve-ebook-img-20.jpg,https://unsplash.com/photos/CvHeSUdjdE4,
-- neve-ebook-img-19.jpg,https://unsplash.com/photos/7yKhUCkGzGM,
-- neve-ebook-img-18.jpg,https://unsplash.com/photos/lbekri_riMg,
-- neve-ebook-img-16.jpg,https://unsplash.com/photos/7PylgvDm39Q,
-- neve-ebook-img-17.jpg,https://unsplash.com/photos/kOnmHdLJTNI,
-- neve-ebook-img-14.jpg,https://unsplash.com/photos/V8DUsA0Pxfs,
-- neve-ebook-img-15.jpg,https://unsplash.com/photos/rX12B5uX7QM,
-- neve-ebook-img-13.jpg,https://unsplash.com/photos/4I4i-i8coIc,
-- neve-ebook-img-12.jpg,https://unsplash.com/photos/0gkw_9fy0eQ,
-- neve-ebook-img-10.jpg,https://unsplash.com/photos/e5YjVcIJW-A,
-- neve-ebook-img-11.jpg,https://unsplash.com/photos/kEXMAGTivXA,
-- neve-ebook-img-09.jpg,https://unsplash.com/photos/AR4sQoG4txg,
-- neve-ebook-img-08.jpg,https://unsplash.com/photos/gCs1ZFbGv0U,
-- neve-ebook-img-07.jpg,https://unsplash.com/photos/V8DUsA0Pxfs,
-- neve-ebook-img-06.jpg,https://unsplash.com/photos/mrALaeWBC0c,
-- neve-ebook-img-05.jpg,https://unsplash.com/photos/rX12B5uX7QM,
-- neve-ebook-img-04.jpg,https://unsplash.com/photos/rX12B5uX7QM,
-- neve-ebook-img-02.jpg,https://unsplash.com/photos/gCs1ZFbGv0U,
-- neve-ebook-img-03.jpg,https://unsplash.com/photos/mrALaeWBC0c,
-- neve-ebook-img-01.jpg,https://unsplash.com/photos/XQD-eLInH6s,
-- Artboard-2-copy-3.jpg,https://unsplash.com/photos/V8DUsA0Pxfs,
-- thumb,http://mystock.themeisle.com/photo/the-statue-of-liberty-at-sunset/,
-- thumb,http://mystock.themeisle.com/photo/brasov-old-city/,
-- thumb,http://mystock.themeisle.com/photo/mysterious-man-2/
+XML export file: https://s20206.pcdn.co/neve-ebook/wp-content/uploads/sites/306/ti-demo-data/export.xml
+
+- neve-ebook-img-20.jpg - [Unsplash](https://unsplash.com/photos/CvHeSUdjdE4)
+- neve-ebook-img-19.jpg - [Unsplash](https://unsplash.com/photos/7yKhUCkGzGM)
+- neve-ebook-img-18.jpg - [Unsplash](https://unsplash.com/photos/lbekri_riMg)
+- neve-ebook-img-16.jpg - [Unsplash](https://unsplash.com/photos/7PylgvDm39Q)
+- neve-ebook-img-17.jpg - [Unsplash](https://unsplash.com/photos/kOnmHdLJTNI)
+- neve-ebook-img-14.jpg - [Unsplash](https://unsplash.com/photos/V8DUsA0Pxfs)
+- neve-ebook-img-15.jpg - [Unsplash](https://unsplash.com/photos/rX12B5uX7QM)
+- neve-ebook-img-13.jpg - [Unsplash](https://unsplash.com/photos/4I4i-i8coIc)
+- neve-ebook-img-12.jpg - [Unsplash](https://unsplash.com/photos/0gkw_9fy0eQ)
+- neve-ebook-img-10.jpg - [Unsplash](https://unsplash.com/photos/e5YjVcIJW-A)
+- neve-ebook-img-11.jpg - [Unsplash](https://unsplash.com/photos/kEXMAGTivXA)
+- neve-ebook-img-09.jpg - [Unsplash](https://unsplash.com/photos/AR4sQoG4txg)
+- neve-ebook-img-08.jpg - [Unsplash](https://unsplash.com/photos/gCs1ZFbGv0U)
+- neve-ebook-img-07.jpg - [Unsplash](https://unsplash.com/photos/V8DUsA0Pxfs)
+- neve-ebook-img-06.jpg - [Unsplash](https://unsplash.com/photos/mrALaeWBC0c)
+- neve-ebook-img-05.jpg - [Unsplash](https://unsplash.com/photos/rX12B5uX7QM)
+- neve-ebook-img-04.jpg - [Unsplash](https://unsplash.com/photos/rX12B5uX7QM)
+- neve-ebook-img-02.jpg - [Unsplash](https://unsplash.com/photos/gCs1ZFbGv0U)
+- neve-ebook-img-03.jpg - [Unsplash](https://unsplash.com/photos/mrALaeWBC0c)
+- neve-ebook-img-01.jpg - [Unsplash](https://unsplash.com/photos/XQD-eLInH6s)
+- Artboard-2-copy-3.jpg - [Unsplash](https://unsplash.com/photos/V8DUsA0Pxfs)
+- thumb - [MyStock](http://mystock.themeisle.com/photo/the-statue-of-liberty-at-sunset/)
+- thumb - [MyStock](http://mystock.themeisle.com/photo/brasov-old-city/)
+- thumb - [MyStock](http://mystock.themeisle.com/photo/mysterious-man-2/)

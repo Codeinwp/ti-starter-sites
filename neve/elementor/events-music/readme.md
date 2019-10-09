@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-events
 
+XML export file: https://s20206.pcdn.co/neve-events/wp-content/uploads/sites/226/ti-demo-data/export.xml
+
 - neve-events-19.jpg, https://unsplash.com/photos/IT5-0oM0YH0,
 - neve-events-18.jpg, https://unsplash.com/photos/aWXVxy8BSzc,
 - neve-events-17.jpg, https://unsplash.com/photos/hTv8aaPziOQ,

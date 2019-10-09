@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-fashion/
 
+XML export file: https://s20206.pcdn.co/neve-fashion/wp-content/uploads/sites/196/ti-demo-data/export.xml
+
 * neve-fashion-demo-31.jpg - [Unsplash](https://unsplash.com/photos/ujaxQq0tB5A)
 * neve-fashion-demo-29.jpg - [Unsplash](https://unsplash.com/photos/2xxM0oyjweM)
 * neve-fashion-demo-30.jpg - [Unsplash](https://unsplash.com/photos/XHqTv6E5YDU)

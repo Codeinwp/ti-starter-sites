@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-freelancer/
 
+XML export file: https://s20206.pcdn.co/neve-freelancer/wp-content/uploads/sites/183/ti-demo-data/export.xml
+
 - neve-freelancer-14.jpg,https://unsplash.com/photos/Y3LGWCsrgmg,
 - neve-freelancer-15.jpg,https://unsplash.com/photos/Ajcipx1VDXI,
 - neve-freelancer-13.jpg,https://unsplash.com/photos/Lks7vei-eAg,

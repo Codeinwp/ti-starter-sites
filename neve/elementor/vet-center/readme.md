@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-vet-center/
 
+XML export file: https://s20206.pcdn.co/neve-vet-center/wp-content/uploads/sites/168/ti-demo-data/export.xml
+
 * 01.jpg - [Unsplash](https://unsplash.com/photos/0quBpwn_fNM)
 * 02.jpg - [Unsplash](https://unsplash.com/photos/h7VBJRBcieM)
 * 03.jpg - [Unsplash](https://unsplash.com/photos/uy5t-CJuIK4)

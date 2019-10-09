@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-restaurant/
 
+XML export file: https://s20206.pcdn.co/neve-restaurant/wp-content/uploads/sites/177/ti-demo-data/export.xml
+
 * neve-restaurant-header1.jpg - [Unsplash](https://unsplash.com/photos/en4qp-aK1h4)
 * neve-restaurant-header3-1024x413.jpg - [Unsplash](https://unsplash.com/photos/LIJujhJviMI)
 * neve-restaurant-header4-1024x663.jpg - [Unsplash](https://unsplash.com/photos/R1_0gSXks5Y)

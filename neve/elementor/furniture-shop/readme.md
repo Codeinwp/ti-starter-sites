@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-furniture-shop/
 
+XML export file: https://s20206.pcdn.co/neve-furniture-shop/wp-content/uploads/sites/272/ti-demo-data/export.xml
+
 - neve-furniture-shop-avatar-1.jpg,https://unsplash.com/photos/D6meliiyaWs,
 - neve-furniture-shop-avatar-2.jpg,https://unsplash.com/photos/SZ9y9PGVQbY,
 - neve-furniture-shop-20.jpg,https://unsplash.com/photos/fZuleEfeA1Q,
