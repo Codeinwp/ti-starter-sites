@@ -1,5 +1,6 @@
 Online demo: https://demo.themeisle.com/neve-fashion-magazine/
 
+XML export file: https://s20206.pcdn.co/neve-fashion-magazine/wp-content/uploads/sites/334/ti-demo-data/export.xml
 
 - neve-fashion-magazine-52.jpg,https://unsplash.com/photos/P3pI6xzovu0,
 - neve-fashion-magazine-51.jpg,https://unsplash.com/photos/DiO3iZjMrMU,

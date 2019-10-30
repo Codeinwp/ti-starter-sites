@@ -1,5 +1,7 @@
 Online demo: https://demo.themeisle.com/neve-cake-shop/
 
+XML export file: https://s20206.pcdn.co/neve-cake-shop/wp-content/uploads/sites/312/ti-demo-data/export.xml
+
 - neve-cake-shop-21.jpg,https://unsplash.com/photos/t-7KEq9M0b0,
 - neve-cake-shop-19.jpg,https://unsplash.com/photos/0GquCjDFNjw,
 - neve-cake-shop-20.jpg,https://unsplash.com/photos/AXDTTuh-0UI,

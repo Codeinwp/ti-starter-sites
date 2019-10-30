@@ -1,5 +1,7 @@
 Demo site: https://demo.themeisle.com/neve-sales-funnel/
 
+XML export file: https://s20206.pcdn.co/neve-sales-funnel/wp-content/uploads/sites/313/ti-demo-data/export.xml
+
 - neve-sales-funnel-35.jpg,https://unsplash.com/photos/y-BIhyjjHv4,
 - neve-sales-funnel-36.jpg,https://unsplash.com/photos/n9fUHbq20r8,
 - neve-sales-funnel-14.jpg,https://unsplash.com/photos/JrjhtBJ-pGU,

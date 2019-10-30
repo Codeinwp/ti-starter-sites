@@ -1,6 +1,8 @@
 
 Demo site: https://demo.themeisle.com/neve-yoga-studio/
 
+XML export file: https://s20206.pcdn.co/neve-yoga-studio/wp-content/uploads/sites/323/ti-demo-data/export.xml
+
 - neve-yoga-18.1.jpg,https://mystock.themeisle.com/photo/floor-pattern/,
 - neve-yoga-studio-27.jpg,https://unsplash.com/photos/UMncYEfO9-U,
 - neve-yoga-studio-25.jpg,https://unsplash.com/photos/t1NEMSm1rgI,

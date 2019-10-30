@@ -1,5 +1,6 @@
 Online demo: https://demo.themeisle.com/neve-food-magazine/
 
+XML export file: https://s20206.pcdn.co/neve-food-magazine/wp-content/uploads/sites/325/ti-demo-data/export.xml
 
 - neve-food-mag-23.jpg,https://unsplash.com/photos/M1y4TFQ9zVk,
 - neve-food-mag-24.jpg,https://unsplash.com/photos/iA32StXHMzM,
