@@ -28,5 +28,5 @@ Online demo: https://demo.themeisle.com/neve-travel-blog/
 - neve-travel-blog-06,https://unsplash.com/photos/888-NfA8Tfo,
 - neve-travel-blog-13,https://unsplash.com/photos/TUXUCVXmjQk,
 - thumb,https://mystock.themeisle.com/photo/copenhagen-canal-at-sunset/,
-thumb,https://mystock.themeisle.com/photo/- colorful-boats-at-the-fishing-harbor-of-riomaggiore-cinque-terre-2/,
+- thumb,https://mystock.themeisle.com/photo/colorful-boats-at-the-fishing-harbor-of-riomaggiore-cinque-terre-2/,
 - thumb,https://mystock.themeisle.com/photo/blue-boat-docked-on-an-island-in-maldives/,
