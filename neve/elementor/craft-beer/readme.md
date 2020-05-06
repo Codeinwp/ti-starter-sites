@@ -22,4 +22,5 @@ Online demo: https://demosites.io/neve-craft-beer/
 - ti-neve-craft-beer-21,https://unsplash.com/photos/nTReGBsk7rk,
 - ti-neve-craft-beer-23,https://unsplash.com/photos/Xrv3JJHf4D8,
 - ti-neve-craft-beer-22,https://unsplash.com/photos/IV4XVU2ipjA,
+- thumb,https://stocksnap.io/photo/beer-bottles-8HS0I30RUK
 - thumb,https://stocksnap.io/photo/wine-beer-C2988083A4,
