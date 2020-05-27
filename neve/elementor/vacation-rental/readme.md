@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-vacation-rental/
+Demo site: https://demosites.io/vacation-rental/
 
 XML export file: https://s20206.pcdn.co/neve-vacation-rental/wp-content/uploads/sites/210/ti-demo-data/export.xml
 

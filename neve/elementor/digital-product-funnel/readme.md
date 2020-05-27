@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-digital-product-funnel/
+Online demo: https://demosites.io/digital-product-funnel/
 
 
 - neve-digital-product-funnel-23.jpg,https://unsplash.com/photos/j1lndsu07Ac,

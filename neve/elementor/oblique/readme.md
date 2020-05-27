@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-oblique/
+Demo site: https://demosites.io/oblique/
 
 XML export file: https://s20206.pcdn.co/neve-oblique/wp-content/uploads/sites/217/ti-demo-data/export.xml
 

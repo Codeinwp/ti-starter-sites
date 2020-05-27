@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-church/
+Online demo: https://demosites.io/church/
 
 XML export file: https://s20206.pcdn.co/neve-church/wp-content/uploads/sites/326/ti-demo-data/export.xml
 

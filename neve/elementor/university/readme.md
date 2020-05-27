@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-university/
+Online demo: https://demosites.io/university/
 
 
 

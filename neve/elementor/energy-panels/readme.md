@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-energy-panels/
+Online demo: https://demosites.io/energy-panels/
 
 XML export file: https://s20206.pcdn.co/neve-energy-panels/wp-content/uploads/sites/167/ti-demo-data/export.xml
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-travel-blog/
+Online demo: https://demosites.io/travel-blog/
 
 
 

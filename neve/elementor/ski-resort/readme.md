@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-ski-resort/
+Online demo: https://demosites.io/ski-resort/
 
 
 - neve-ski-resort-demo-26.jpg,https://unsplash.com/photos/oeWQWCCdao0,

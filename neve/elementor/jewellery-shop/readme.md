@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-jewellery-shop/
+Online demo: https://demosites.io/jewellery-shop/
 
 
 

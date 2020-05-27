@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-tatoo/
+Online demo: https://demosites.io/tatoo/
 
 XML export file: https://s20206.pcdn.co/neve-tatoo/wp-content/uploads/sites/255/ti-demo-data/export.xml
 

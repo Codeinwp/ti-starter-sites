@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-scholar/
+Online demo: https://demosites.io/scholar/
 
 XML export file: https://s20206.pcdn.co/neve-scholar/wp-content/uploads/sites/182/ti-demo-data/export.xml
 

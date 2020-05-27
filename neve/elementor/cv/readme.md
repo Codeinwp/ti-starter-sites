@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-cv/
+Demo site: https://demosites.io/cv/
 
 
 

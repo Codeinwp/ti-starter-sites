@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-blogger/
+Online demo: https://demosites.io/blogger/
 
 
 - neve-minimal-blogger-11.jpg,https://unsplash.com/photos/bG34b0wtRbw,

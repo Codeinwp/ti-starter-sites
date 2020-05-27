@@ -1,5 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-adventure/
-
+Online demo: https://demosites.io/adventure/
 
 - neve-avatar-11.jpg,https://unsplash.com/photos/Ffh5_aiqUT0,
 - neve-avatar-22.jpg,https://unsplash.com/photos/KoWyZZtduaE,

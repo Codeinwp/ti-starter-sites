@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-photography-portfolio/
+Online demo: https://demosites.io/photography-portfolio/
 
 XML export file: https://s20206.pcdn.co/neve-photography-portfolio/wp-content/uploads/sites/192/ti-demo-data/export.xml
 

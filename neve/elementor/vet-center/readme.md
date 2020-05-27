@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-vet-center/
+Demo site: https://demosites.io/vet-center/
 
 XML export file: https://s20206.pcdn.co/neve-vet-center/wp-content/uploads/sites/168/ti-demo-data/export.xml
 

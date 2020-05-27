@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-doctor/
+Online demo: https://demosites.io/doctor/
 
 
 

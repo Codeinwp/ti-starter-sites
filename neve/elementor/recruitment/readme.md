@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-recruitment/
+Online demo: https://demosites.io/recruitment/
 
 
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-accounting/
+Online demo: https://demosites.io/accounting/
 
 
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-conference/
+Online demo: https://demosites.io/conference/
 
 
 

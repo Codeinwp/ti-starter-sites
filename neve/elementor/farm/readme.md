@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-farm/
+Online demo: https://demosites.io/farm/
 
 XML export file: https://s20206.pcdn.co/neve-farm/wp-content/uploads/sites/262/ti-demo-data/export.xml
 

@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-themotion
+Demo site: https://demosites.io/themotion
 
 XML export file: https://s20206.pcdn.co/neve-themotion/wp-content/uploads/sites/215/ti-demo-data/export.xml
 

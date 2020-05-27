@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-kindergarten/
+Online demo: https://demosites.io/kindergarten/
 
 XML export file: https://s20206.pcdn.co/neve-kindergarten/wp-content/uploads/sites/291/ti-demo-data/export.xml
 

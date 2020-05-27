@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-insurance/
+Online demo: https://demosites.io/insurance/
 
 
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-band/
+Online demo: https://demosites.io/band/
 
 
 

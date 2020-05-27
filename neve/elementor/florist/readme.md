@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-florist/
+Demo site: https://demosites.io/florist/
 
 XML export file: https://s20206.pcdn.co/neve-florist/wp-content/uploads/sites/307/ti-demo-data/export.xml
 

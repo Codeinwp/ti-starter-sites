@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-real-estate/
+Demo site: https://demosites.io/real-estate/
 
 XML export file: https://s20206.pcdn.co/neve-real-estate/wp-content/uploads/sites/225/ti-demo-data/export.xml
 

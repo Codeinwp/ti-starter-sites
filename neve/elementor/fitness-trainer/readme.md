@@ -1,5 +1,5 @@
 
-Online demo: https://demo.themeisle.com/neve-fitness-trainer/
+Online demo: https://demosites.io/fitness-trainer/
 
 
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-food-magazine/
+Online demo: https://demosites.io/food-magazine/
 
 XML export file: https://s20206.pcdn.co/neve-food-magazine/wp-content/uploads/sites/325/ti-demo-data/export.xml
 

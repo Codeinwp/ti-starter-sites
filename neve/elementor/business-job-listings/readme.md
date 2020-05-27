@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-job-listings/
+Online demo: https://demosites.io/job-listings/
 
 XML export file: https://s20206.pcdn.co/neve-job-listings/wp-content/uploads/sites/254/ti-demo-data/export.xml
 

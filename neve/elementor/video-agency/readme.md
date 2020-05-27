@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/video-agency/
+Online demo: https://demosites.io/video-agency/
 
 XML export file: https://s20206.pcdn.co/video-agency/wp-content/uploads/sites/193/ti-demo-data/export.xml
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-consultants/
+Online demo: https://demosites.io/consultants/
 
 XML export file: https://s20206.pcdn.co/neve-consultants/wp-content/uploads/sites/185/ti-demo-data/export.xml
 

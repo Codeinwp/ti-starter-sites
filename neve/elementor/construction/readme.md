@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-constructions/
+Demo site: https://demosites.io/constructions/
 
 XML export file: https://s20206.pcdn.co/neve-constructions/wp-content/uploads/sites/195/ti-demo-data/export.xml
 

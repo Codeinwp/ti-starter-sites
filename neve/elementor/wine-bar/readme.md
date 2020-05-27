@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-wine-bar/
+Online demo: https://demosites.io/wine-bar/
 
 
 

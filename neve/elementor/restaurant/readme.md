@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-restaurant/
+Demo site: https://demosites.io/restaurant/
 
 XML export file: https://s20206.pcdn.co/neve-restaurant/wp-content/uploads/sites/177/ti-demo-data/export.xml
 

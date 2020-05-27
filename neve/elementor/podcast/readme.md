@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-podcast/
+Online demo: https://demosites.io/podcast/
 
 
 - neve-podcast-demo-18.jpg;	https://unsplash.com/photos/h0rXrHzhFXU

@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-fitness/
+Demo site: https://demosites.io/fitness/
 
 XML export file: https://s20206.pcdn.co/neve-fitness/wp-content/uploads/sites/208/ti-demo-data/export.xml
 

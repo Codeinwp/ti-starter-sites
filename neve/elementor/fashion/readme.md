@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-fashion/
+Demo site: https://demosites.io/fashion/
 
 XML export file: https://s20206.pcdn.co/neve-fashion/wp-content/uploads/sites/196/ti-demo-data/export.xml
 

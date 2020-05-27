@@ -1,5 +1,5 @@
 
-Online demo: https://demo.themeisle.com/neve-boat-rental/
+Online demo: https://demosites.io/boat-rental/
 
 
 

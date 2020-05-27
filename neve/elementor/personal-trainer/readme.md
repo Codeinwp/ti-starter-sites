@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-personal-trainer/
+Online demo: https://demosites.io/personal-trainer/
 
 XML export file: https://s20206.pcdn.co/neve-personal-trainer/wp-content/uploads/sites/241/ti-demo-data/export.xml
 

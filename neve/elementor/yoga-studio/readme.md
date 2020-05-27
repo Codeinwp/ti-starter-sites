@@ -1,5 +1,5 @@
 
-Demo site: https://demo.themeisle.com/neve-yoga-studio/
+Demo site: https://demosites.io/yoga-studio/
 
 XML export file: https://s20206.pcdn.co/neve-yoga-studio/wp-content/uploads/sites/323/ti-demo-data/export.xml
 

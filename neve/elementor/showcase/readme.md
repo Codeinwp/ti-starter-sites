@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-showcase/
+Online demo: https://demosites.io/showcase/
 
 XML export file: https://s20206.pcdn.co/neve-showcase/wp-content/uploads/sites/184/ti-demo-data/export.xml
 

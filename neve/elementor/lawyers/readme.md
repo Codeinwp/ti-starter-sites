@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-lawyers/
+Online demo: https://demosites.io/lawyers/
 
 XML export file: https://s20206.pcdn.co/neve-lawyers/wp-content/uploads/sites/175/ti-demo-data/export.xml
 

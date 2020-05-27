@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-industrial/
+Online demo: https://demosites.io/industrial/
 
 
 

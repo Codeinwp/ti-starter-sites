@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-charity/
+Demo site: https://demosites.io/charity/
 
 XML export file: https://s20206.pcdn.co/neve-charity/wp-content/uploads/sites/178/ti-demo-data/export.xml
 

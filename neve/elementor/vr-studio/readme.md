@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-vr-studio/
+Online demo: https://demosites.io/vr-studio/
 
 
 

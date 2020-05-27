@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-exhibition/
+Online demo: https://demosites.io/exhibition/
 
 
 - neve-exhibition-17.jpg,https://unsplash.com/photos/nbneQlI2M1A,

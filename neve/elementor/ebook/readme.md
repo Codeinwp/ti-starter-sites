@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-ebook/
+Online demo: https://demosites.io/ebook/
 
 XML export file: https://s20206.pcdn.co/neve-ebook/wp-content/uploads/sites/306/ti-demo-data/export.xml
 

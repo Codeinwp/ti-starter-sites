@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-mtb-race/
+Online demo: https://demosites.io/mtb-race/
 
 
 

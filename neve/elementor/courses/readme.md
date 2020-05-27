@@ -1,5 +1,5 @@
 
-Demo site: https://demo.themeisle.com/neve-courses/
+Demo site: https://demosites.io/courses/
 
 
 

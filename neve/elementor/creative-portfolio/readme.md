@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-creative-portfolio
+Online demo: https://demosites.io/creative-portfolio
 
 XML export file: https://s20206.pcdn.co/neve-creative-portfolio/wp-content/uploads/sites/236/ti-demo-data/export.xml
 

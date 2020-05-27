@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-electronics-store/
+Online demo: https://demosites.io/electronics-store/
 
 
 

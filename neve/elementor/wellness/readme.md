@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-wellness/
+Demo site: https://demosites.io/wellness/
 
 
 

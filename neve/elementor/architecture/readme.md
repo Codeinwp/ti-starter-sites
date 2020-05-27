@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-architecture/
+Online demo: https://demosites.io/architecture/
 
 XML export file: https://s20206.pcdn.co/neve-architecture/wp-content/uploads/sites/207/ti-demo-data/export.xml
 

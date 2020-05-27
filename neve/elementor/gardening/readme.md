@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-gardening/
+Online demo: https://demosites.io/gardening/
 
 
 

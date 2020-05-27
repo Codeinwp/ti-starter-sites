@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-transport/
+Online demo: https://demosites.io/transport/
 
 XML export file: https://s20206.pcdn.co/neve-transport/wp-content/uploads/sites/314/ti-demo-data/export.xml
 

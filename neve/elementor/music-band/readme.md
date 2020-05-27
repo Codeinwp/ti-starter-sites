@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-music-band
+Demo site: https://demosites.io/music-band
 
 XML export file: https://s20206.pcdn.co/neve-music-band/wp-content/uploads/sites/209/ti-demo-data/export.xml
 

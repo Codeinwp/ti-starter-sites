@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-barber-shop/
+Online demo: https://demosites.io/barber-shop/
 
 XML export file: https://s20206.pcdn.co/neve-barber-shop/wp-content/uploads/sites/247/ti-demo-data/export.xml
 

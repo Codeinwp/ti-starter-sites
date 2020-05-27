@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-tech-lab/
+Online demo: https://demosites.io/tech-lab/
 
 
 

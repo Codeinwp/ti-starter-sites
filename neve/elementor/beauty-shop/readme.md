@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-beauty-shop/
+Online demo: https://demosites.io/beauty-shop/
 
 
 

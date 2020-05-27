@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-onboarding/
+Demo site: https://demosites.io/onboarding/
 
 XML export file: https://s20206.pcdn.co/neve-onboarding/wp-content/uploads/sites/173/ti-demo-data/export.xml
 

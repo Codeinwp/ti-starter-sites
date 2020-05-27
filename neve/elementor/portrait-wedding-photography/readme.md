@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-portrait-photopraphy/
+Online demo: https://demosites.io/portrait-photopraphy/
 
 XML export file: https://s20206.pcdn.co/neve-portrait-photopraphy/wp-content/uploads/sites/190/ti-demo-data/export.xml
 

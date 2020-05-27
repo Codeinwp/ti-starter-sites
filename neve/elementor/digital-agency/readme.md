@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-digital-agency/
+Online demo: https://demosites.io/digital-agency/
 
 
 - neve-digital-agency-16.jpg;	https://unsplash.com/photos/FWVMhUa_wbY

@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-doctors/
+Demo site: https://demosites.io/doctors/
 
 XML export file: https://s20206.pcdn.co/neve-doctors/wp-content/uploads/sites/176/ti-demo-data/export.xml
 

@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-furniture-shop/
+Online demo: https://demosites.io/furniture-shop/
 
 XML export file: https://s20206.pcdn.co/neve-furniture-shop/wp-content/uploads/sites/272/ti-demo-data/export.xml
 

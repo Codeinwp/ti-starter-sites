@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-sales-funnel/
+Demo site: https://demosites.io/sales-funnel/
 
 XML export file: https://s20206.pcdn.co/neve-sales-funnel/wp-content/uploads/sites/313/ti-demo-data/export.xml
 

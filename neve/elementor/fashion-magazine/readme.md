@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-fashion-magazine/
+Online demo: https://demosites.io/fashion-magazine/
 
 XML export file: https://s20206.pcdn.co/neve-fashion-magazine/wp-content/uploads/sites/334/ti-demo-data/export.xml
 

@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-wedding
+Demo site: https://demosites.io/wedding
 
 XML export file: https://s20206.pcdn.co/neve-wedding/wp-content/uploads/sites/214/ti-demo-data/export.xml
 

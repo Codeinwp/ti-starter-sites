@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-restaurant-2/
+Online demo: https://demosites.io/restaurant-2/
 
 
 

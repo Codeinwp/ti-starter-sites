@@ -1,5 +1,5 @@
 
-Online demo: https://demo.themeisle.com/neve-apparel/
+Online demo: https://demosites.io/apparel/
 
 
 

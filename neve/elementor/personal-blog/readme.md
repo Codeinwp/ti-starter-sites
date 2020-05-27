@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-personal-blog/
+Online demo: https://demosites.io/personal-blog/
 
 
 

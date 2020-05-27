@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-fishing-club/
+Online demo: https://demosites.io/fishing-club/
 
 
 

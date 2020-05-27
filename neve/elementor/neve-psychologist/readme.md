@@ -1,5 +1,5 @@
 
-Online demo: https://demo.themeisle.com/neve-psychologist/
+Online demo: https://demosites.io/psychologist/
 
 
 

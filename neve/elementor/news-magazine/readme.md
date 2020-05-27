@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-news-magazine/
+Online demo: https://demosites.io/news-magazine/
 
 
 - neve-news-mag-demo-33.jpg,https://unsplash.com/photos/guNIjIuUcgY,

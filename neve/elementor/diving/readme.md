@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-diving/
+Online demo: https://demosites.io/diving/
 
 
 

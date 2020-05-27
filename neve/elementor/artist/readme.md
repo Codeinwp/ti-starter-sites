@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-artist/
+Online demo: https://demosites.io/artist/
 
 
 

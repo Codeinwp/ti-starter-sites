@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-pro-v2/
+Demo site: https://demosites.io/pro-v2/
 
 XML export file: https://s20206.pcdn.co/neve-pro/wp-content/uploads/sites/292/ti-demo-data/export.xml
 

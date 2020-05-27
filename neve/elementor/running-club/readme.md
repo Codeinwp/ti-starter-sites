@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-running-club/
+Online demo: https://demosites.io/running-club/
 
 
 

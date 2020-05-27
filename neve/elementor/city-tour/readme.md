@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-city-tour/
+Online demo: https://demosites.io/city-tour/
 
 
 

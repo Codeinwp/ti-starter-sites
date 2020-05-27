@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-book-shop/
+Online demo: https://demosites.io/book-shop/
 
 
 - neve-book-shop-39,https://unsplash.com/photos/VS2C5_GI_MM,

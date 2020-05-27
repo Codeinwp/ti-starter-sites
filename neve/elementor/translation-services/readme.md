@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-translation-services/
+Online demo: https://demosites.io/translation-services/
 
 
 

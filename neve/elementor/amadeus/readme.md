@@ -1,4 +1,4 @@
-Demo site: https://demo.themeisle.com/neve-amadeus/
+Demo site: https://demosites.io/amadeus/
 
 XML export file: https://s20206.pcdn.co/neve-amadeus/wp-content/uploads/sites/218/ti-demo-data/export.xml
 

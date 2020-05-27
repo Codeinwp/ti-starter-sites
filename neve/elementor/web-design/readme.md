@@ -1,4 +1,4 @@
-Online demo: https://demo.themeisle.com/neve-web-design/
+Online demo: https://demosites.io/web-design/
 
 XML export file: https://s20206.pcdn.co/neve-web-design/wp-content/uploads/sites/324/ti-demo-data/export.xml
 
