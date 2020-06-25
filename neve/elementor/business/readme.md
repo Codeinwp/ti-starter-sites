@@ -20,3 +20,5 @@ Online demo: https://demosites.io/business-gb
 - demo-business-gb-2,https://unsplash.com/photos/amLfrL8LGls,
 - demo-sites-business-08,https://unsplash.com/photos/6anudmpILw4,
 - demo-sites-business-03,https://unsplash.com/photos/ssKEI4HRRtI,
+- thumbnail, https://mystock.themeisle.com/photo/cityview-from-water/
+- thumbnail, https://mystock.themeisle.com/photo/flatiron-2/

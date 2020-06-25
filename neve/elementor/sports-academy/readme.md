@@ -26,3 +26,5 @@ Online demo: https://demosites.io/sports-academy/
 - sports-academy-04,https://unsplash.com/photos/U4zpPfvogJ4,
 - sports-academy-02,https://unsplash.com/photos/JJTymoqqNIQ,
 - sports-academy-01,https://unsplash.com/photos/PxJj97JGZXE,
+- thumbnail, https://stocksnap.io/photo/football-soccer-MJ7XGR7K4C,
+- thumbnail, https://stocksnap.io/photo/soccer-ball-LHHL7FKKVD
