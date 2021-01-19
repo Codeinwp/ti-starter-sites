@@ -27,3 +27,7 @@ Online demo: https://demosites.io/coding-school-gb/
 - coding-school-04.png,https://unsplash.com/photos/gMsnXqILjp4,
 - coding-school-02.png,https://unsplash.com/photos/vHVfpi3h5xk,
 - coding-school-01.png,https://unsplash.com/photos/Tjbk79TARiE,
+- thumbnail,https://stocksnap.io/photo/designers-discuss-0IDDBGKWDX,
+- thumbnail,https://stocksnap.io/photo/office-work-N0ZRKV9CI6,
+- thumbnail,https://stocksnap.io/photo/computer-keyboard-A28WZDTYEY,
+- thumbnail,https://stocksnap.io/photo/technology-motherboard-OHPHM6IETL,
