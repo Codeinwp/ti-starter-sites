@@ -20,3 +20,5 @@ Online demo: https://demosites.io/tea-brand-gb/
 - neve-tea-brand-03.png,https://unsplash.com/photos/oRJihb0QTBw,
 - neve-tea-brand-02.png,https://unsplash.com/photos/X6Uj51n5CE8,
 - thumbnail, https://www.pexels.com/photo/girl-standing-near-green-leaves-511407/
+- avatar-02.png	https://unsplash.com/photos/4nulm-JUYFo
+- avatar-01.png	https://unsplash.com/photos/6anudmpILw4
