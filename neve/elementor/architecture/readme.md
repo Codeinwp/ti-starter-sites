@@ -20,3 +20,8 @@ XML export file: https://s20206.pcdn.co/neve-architecture/wp-content/uploads/sit
 - neve-architect-07.jpg - [Unsplash](https://unsplash.com/photos/yFV39g6AZ5o)
 - neve-architect-06.jpg - [Unsplash](https://unsplash.com/photos/_aN6zIDRLfQ)
 - neve-architect-demo-29.jpg - [Unsplash](https://unsplash.com/photos/YMPUJexvNa8)
+- thumbnail-1 - https://pxhere.com/en/photo/49488
+- thumbnail-2 - https://pxhere.com/en/photo/125022
+- thumbnail-3 - https://pxhere.com/en/photo/1329604
+- thumbnail-4 - https://pxhere.com/en/photo/1015789
+- thumbnail-5 - https://pxhere.com/en/photo/1391834
