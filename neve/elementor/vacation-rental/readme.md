@@ -30,3 +30,4 @@ XML export file: https://s20206.pcdn.co/neve-vacation-rental/wp-content/uploads/
 - neve-vacation-img-10.jpg,https://unsplash.com/photos/dM_e5u-SM0U,
 - neve-vacation-img-08.jpg,https://unsplash.com/photos/S2cIlaB7MnI,
 - neve-vacation-img-01.jpg,https://unsplash.com/photos/fljCznt2BLM,
+- thumbnail, https://stocksnap.io/photo/santorini-church-HGVQPNFUDV
