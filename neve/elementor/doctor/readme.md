@@ -26,3 +26,4 @@ Online demo: https://demosites.io/doctor/
 - thumb,https://stocksnap.io/photo/city-buildings-VAGYAWK3PE,
 - thumb,https://stocksnap.io/photo/chair-dentist-3J10QN5PTS,
 - thumb,https://stocksnap.io/photo/stethoscope-medical-9M1HWW2JFV,
+- thumb, https://stocksnap.io/photo/health-care-0DCSAGJ9CM
