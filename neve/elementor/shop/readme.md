@@ -22,3 +22,4 @@ XML export file: https://s20206.pcdn.co/neve-shop/wp-content/uploads/sites/188/t
 * khachik-simonian-nXOB-wh4Oyc-unsplash.jpg - [Unsplash](https://unsplash.com/photos/nXOB-wh4Oyc)
 * alex-perez-NLUkAA-nDdE-unsplash.jpg - [Unsplash](https://unsplash.com/photos/NLUkAA-nDdE)
 * james-connolly-WUo0EdSv9OU-unsplash.jpg - [Unsplash](https://unsplash.com/photos/WUo0EdSv9OU)
+* thumbnail - https://stocksnap.io/photo/businessmeeting-people-AEENLCARXY
