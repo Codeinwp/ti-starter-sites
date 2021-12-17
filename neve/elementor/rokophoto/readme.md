@@ -21,3 +21,4 @@ XML export file: https://s20206.pcdn.co/neve-rokophoto/wp-content/uploads/sites/
 - neve-rokophoto-2.png, https://unsplash.com/photos/12Y0Cl0IUz8,
 - neve-rokophoto-1.png, https://unsplash.com/photos/zcvWUNrmPBQ,
 - thumb, http://mystock.themeisle.com/photo/vintage-camera/	
+- thumb, https://stocksnap.io/photo/purple-sky-T7VWJ9PD7A
