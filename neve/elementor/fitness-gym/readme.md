@@ -25,3 +25,5 @@ XML export file: https://s20206.pcdn.co/neve-fitness/wp-content/uploads/sites/20
 - neve-gym-demo-25.jpg,https://unsplash.com/photos/dMWL8V7L8G4,
 - neve-gym-demo-10.jpg,https://unsplash.com/photos/DC5akQJyH4I,
 - neve-gym-demo-12.jpg,https://unsplash.com/photos/_8hGFBxWD0A,
+- thumb,https://stocksnap.io/photo/people-men-M5791YB6J9,
+- thumb,https://stocksnap.io/photo/gym-interior-LNCLN1NE6K
