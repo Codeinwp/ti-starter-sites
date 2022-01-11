@@ -32,3 +32,4 @@ Online demo: https://demosites.io/digital-store-gb/
 - thumb,https://mystock.themeisle.com/photo/street-dog-sitting-on-a-beach/,
 - thumb,https://mystock.themeisle.com/photo/greece-landscape/,
 - thumb,https://mystock.themeisle.com/photo/people-walking-towards-the-train-with-trollers-in-a-train-station/,
+- thumb, https://www.pexels.com/photo/white-waterfalls-between-rocky-mountain-during-cloudy-day-602203/
