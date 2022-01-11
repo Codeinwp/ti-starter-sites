@@ -19,3 +19,5 @@ Online demo: https://demosites.io/painter-gb/
 - avi-richards-PfUH_AuFE_0-unsplash.jpg,https://unsplash.com/photos/PfUH_AuFE_0,
 - thumb,https://stocksnap.io/photo/colorful-art-VHCI8TYFMJ,
 - thumb,https://stocksnap.io/photo/abstract-painting-QFVADVYUXL,
+- thumb, https://stocksnap.io/photo/abstract-paint-BO2LNK630N
+- thumb, https://stocksnap.io/photo/abstract-painting-9PEBGIKZCZ
