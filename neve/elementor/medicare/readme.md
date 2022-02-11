@@ -42,3 +42,5 @@ Name,url
 - neve-medicare-23.png,https://www.pexels.com/photo/man-people-woman-office-6129141/,
 - neve-medicare-21.png,https://www.pexels.com/photo/flat-lay-photo-of-alternative-medicines-7615574/,
 - neve-medicare-20.png,https://www.pexels.com/photo/men-wearing-personal-protective-equipment-standing-in-a-room-7583380/,
+- thumb	https://stocksnap.io/photo/female-nurse-XYNYITNTU1	
+- thumb	https://stocksnap.io/photo/health-care-OLO6VUNJOS	
