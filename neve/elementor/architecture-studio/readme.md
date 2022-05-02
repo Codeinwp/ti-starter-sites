@@ -43,7 +43,7 @@ Demo site: https://demosites.io/architecture-studio-gb/
 - architecture-studio-23.png,https://www.pexels.com/photo/multi-storey-building-2427528/,
 - architecture-studio-22.png,https://www.pexels.com/photo/woman-standing-near-dome-building-1070139/,
 - architecture-studio-19.1.png,https://www.pexels.com/photo/blue-building-410696/,
-- architecture-studio-18.1.png,architecture-studio-18.1.png,
+- architecture-studio-18.1.png,https://www.pexels.com/photo/stylish-geometric-building-with-glass-balconies-4082527/
 - architecture-studio-avatar-01.png,https://www.pexels.com/photo/selective-focus-portrait-photo-of-man-in-formal-wear-3760376/,
 - architecture-studio-17.1.png,https://www.pexels.com/photo/businessman-man-person-people-6592361/,
 - architecture-studio-03-1.png,https://www.pexels.com/photo/cozy-living-room-interior-with-comfy-couch-and-armchair-and-wooden-details-4846106/,
