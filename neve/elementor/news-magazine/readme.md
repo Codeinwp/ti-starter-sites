@@ -53,4 +53,5 @@ Online demo: https://demosites.io/news-magazine/
 - thumb,https://mystock.themeisle.com/photo/skiers/,
 - thumb,https://mystock.themeisle.com/photo/new-york-skyscrapers-on-a-cloudy-wheather/,
 - thumb,https://mystock.themeisle.com/photo/metropolitan-museum/,
+- thumb, https://pxhere.com/en/photo/1550717
 
