@@ -23,4 +23,5 @@ XML export file: https://s20206.pcdn.co/neve-energy-panels/wp-content/uploads/si
 - neve-energy-panels-19.jpg,https://unsplash.com/photos/GbxIL8WCKxc,
 - neve-energy-panels-21.jpg,https://unsplash.com/photos/ihMzQV3lleo,
 - thumb,http://mystock.themeisle.com/photo/sunny-rome/,
-- thumb,http://mystock.themeisle.com/photo/tour-eiffel/,
+- thumb, https://pxhere.com/en/photo/1089490,
+- thumb, https://pxhere.com/en/photo/1265893
